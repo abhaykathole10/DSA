@@ -42,7 +42,6 @@ public class Madrid {
 	                    stackOp.push(data);
 	                    System.out.println("Data Inserted successfully");
 	                }
-
 	                break;
 	                
 	            case 2:
